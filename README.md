@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Markus Tenghamn. I started as a backend PHP developer but work mostly with Go now. 
+I'm Markus. I started as a backend PHP developer but work mostly with Go now. 
 Lately I have worked in management positions as I find myself to be a natural leader and 
 enjoy working with others to solve problems.
 
