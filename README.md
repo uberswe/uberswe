@@ -8,5 +8,5 @@ Here on GitHub I share a lot of my personal projects that I enjoy working on. I 
 publishing my code can connect me with like-minded collaborators but also help others learn 
 from the projects I have created.
 
-- 📫 How to reach me: m@rkus.io
+- 📫 How to reach me: admin@uberswe.com
 
