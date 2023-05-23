@@ -9,8 +9,4 @@ publishing my code can connect me with like-minded collaborators but also help o
 from the projects I have created.
 
 - 📫 How to reach me: admin@uberswe.com
-- :tv: My YouTube for more techical topics: [Uberflow](https://www.youtube.com/channel/UCMUnZx_hmATb-KLaCyHeZ4Q)
-- :tv: My YouTube for Minecraft: [Uberswe Plays Minecraft](https://www.youtube.com/channel/UC5jYtRPYgG6ejLEixcqrbxg)
-- :tv: My YouTube for gaming: [Uberswe](https://www.youtube.com/channel/UCxq4I2EvVT8BqIopG6gvHGg)
-- :star: My website: [uberswe.com](https://www.uberswe.com)
 
